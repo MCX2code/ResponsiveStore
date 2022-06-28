@@ -5,7 +5,7 @@
 
   ## Description
   
-  This is a professional responsive website designed. A digital store that provides a great online shopping experience. They have a couple items and site is reponsive to Mobile, tablet, Computer and monitors of most sizes.
+  This is a professional responsive website designed. A digital store that provides a great online shopping experience. A couple items currently available but site is reponsive to Mobile, Tablet, Computer and Monitors of most sizes.
 
   ## Table of contents
 
