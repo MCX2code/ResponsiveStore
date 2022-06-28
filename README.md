@@ -30,7 +30,7 @@
 
   ## Screenshots
 
-  ![Project Screenshot](/assets/images/screenshot.png)
+  ![Project Screenshot](https://raw.githubusercontent.com/MCX2code/ResponsiveStore/main/Responsive%20Store.png)
  
 
   ## Questions?
