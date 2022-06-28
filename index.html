@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Responsive Web Design</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" href="./assets/css/style.css" />
+  </head>
+  <body>
+    <!-- Header -->
+    <header>
+      <h1>Welcome to the store!</h1>
+      <p>
+        When you change the screen size, the layout will change so you can view
+        the page comfortably no matter how small the screen gets!
+      </p>
+    </header>
+
+    <!-- Navbar -->
+    <nav>
+      <a href="#cam">Camera</a>
+      <a href="#tab">Tablet</a>
+      <a href="#paper">Toilet Paper</a>
+      <a href="#wood">Wooden Spoons</a>
+    </nav>
+
+    <!-- Body -->
+    <main>
+      <!-- Sidebar -->
+      <aside>
+        <h2>When you change the screen size...</h2>
+        <p class="p1">The navbar and this sidebar will be stacked on top of each other!</p>
+        <p class="p1"> 
+          And the product cards will wrap around as the screen gets smaller.
+        </p>
+        <p class="p1">
+          Nav bar selection will direction to location on page. Happy Shopping! 
+        </p>
+      </aside>
+      <!-- Product Cards -->
+      <div class="products">
+        <section class="card">
+          <header>Latest Camera</header>
+          <img src="./assets/images/camera.jpg" alt="black camera" id="cam"/>
+          <p>Price: $300</p>
+        </section>
+
+        <section class="card">
+          <header>Digital Tablet</header>
+          <img src="./assets/images/tablet.jpg" alt="tablet held in hands" id="tab" />
+          <p>Price: $150</p>
+        </section>
+        <section class="card">
+          <header>Bulk Toilet Paper</header>
+          <img
+            src="./assets/images/toilet-paper.jpg"
+            alt="rolls of toilet paper in a basket" id="paper"
+          />
+          <p>Price: $35</p>
+        </section>
+        <section class="card">
+          <header>4 Wooden Spoons</header>
+          <img
+            src="./assets/images/wooden-spoons.jpg"
+            alt="4 wooden spoons with different seasonings" id="wood"
+          />
+          <p>Price: $15</p>
+        </section>
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+      <h4>
+        Open Chrome DevTools --> Toggle device toolbar --> Resize the browser
+        window!
+      </h4>
+    </footer>
+  </body>
+</html>
