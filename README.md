@@ -30,7 +30,7 @@
 
   ## Screenshots
 
-  ![Project Screenshot](https://raw.githubusercontent.com/MCX2code/ResponsiveStore/main/Responsive%20Store.png)
+  ![Project Screenshot]<img src="[img_girl.jpg](https://raw.githubusercontent.com/MCX2code/ResponsiveStore/main/Responsive%20Store.png)" alt="Responsive Store" width="500" height="600">
  
 
   ## Questions?
